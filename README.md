@@ -39,7 +39,7 @@
 
 #### Интерфейс приложения
 
-![Интерфейс приложения "Убегающая кнопка"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Running Button.png)
+![Интерфейс приложения "Убегающая кнопка"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Running%20Button.png)
 
 #### Требования к приложению
 
@@ -58,7 +58,7 @@
 
 #### Интерфейс приложения 
 
-![Интерфейс приложения "Цветовая палитра"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Color Picker.png)
+![Интерфейс приложения "Цветовая палитра"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Color%20Picker.png)
 
 #### Требования к приложению
 
