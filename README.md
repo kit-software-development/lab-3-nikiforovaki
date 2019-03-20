@@ -39,7 +39,7 @@
 
 #### Интерфейс приложения
 
-![Интерфейс приложения "Убегающая кнопка"](./UI Prototypes/Running Button.png)
+![Интерфейс приложения "Убегающая кнопка"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Running Button.png)
 
 #### Требования к приложению
 
@@ -58,7 +58,7 @@
 
 #### Интерфейс приложения 
 
-![Интерфейс приложения "Цветовая палитра"](./UI Prototypes/Color Picker.png)
+![Интерфейс приложения "Цветовая палитра"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Color Picker.png)
 
 #### Требования к приложению
 
@@ -135,7 +135,7 @@ namespace System.Windows.Forms
 
 #### Интерфейс приложения
 
-![Интерфейс приложения "Калькулятор"](./UI Prototypes/Calculator.png)
+![Интерфейс приложения "Калькулятор"](https://github.com/kit-software-development/lab-3/blob/master/UI%20Prototypes/Calculator.png)
 
 #### Требования к приложению
 
