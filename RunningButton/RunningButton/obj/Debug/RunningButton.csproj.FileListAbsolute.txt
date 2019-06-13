@@ -1,0 +1,20 @@
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csprojAssemblyReference.cache
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.Properties.Resources.resources
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.cache
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.CoreCompileInputs.cache
+C:\Users\weltk\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.exe.config
+C:\Users\weltk\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.exe
+C:\Users\weltk\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.pdb
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.exe
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.pdb
+C:\Users\weltk\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.RunningForm.resources
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\bin\Debug\RunningButton.exe.config
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\bin\Debug\RunningButton.exe
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\bin\Debug\RunningButton.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.RunningForm.resources
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.Properties.Resources.resources
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.cache
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.exe
+C:\Users\weltk\OneDrive\Рабочий стол\RunningButton\RunningButton\obj\Debug\RunningButton.pdb

@@ -1,0 +1,10 @@
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\bin\Debug\Color.exe.config
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\bin\Debug\Color.exe
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\bin\Debug\Color.pdb
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.csprojAssemblyReference.cache
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.Palette.resources
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.Properties.Resources.resources
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.csproj.GenerateResource.cache
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.exe
+C:\Users\Карина\Source\lab-3-Ikhsanovak\Color\obj\Debug\Color.pdb
